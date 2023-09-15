@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/d382d2fad1fdd2a4ccca4.png" alt="ROSE BUCKET Logo">
+  <img src="https://te.legra.ph/file/f7bb87698b34dd8ba46c1.jpg" alt="Logo">
 </p>
 <h1 align="center">
   <b>Miss Rozy : A Permanent file Store BOT</b>
@@ -7,7 +7,7 @@
 <p>I am the first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The LazyDeveloperr. </p>
 
 ### `Miss Rozy` : Give her a STAR ⭐️
-I am hte first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The [LazyDeveloperr](https://github.com/LazyDeveloperr).<b>So Copy pasters -> Must give credit to [LazyDeveloperr](https://github.com/LazyDeveloperr) else 🖕<b/>
+I am hte first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The [GUARDIANFF](https://github.com/Guardianff).<b>So Copy pasters -> Must give credit to [GUARDIANFF](https://github.com/Guardianff) else 🖕<b/>
 
 ## Commands:
 
@@ -62,31 +62,26 @@ I am hte first permanent file store with Automatic thumbnail extracting + Automa
 - `STREAM_LOGS` - Add streams logs channel id to send logs *(important)*
 - 
 ### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/6ueOAngytso)
+[![Telegram](https://img.shields.io/badge/Video%20Tutorial-blue?logo=telegram)](https://youtu.be/6ueOAngytso)
 
 ### Deploy Now:
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/MissRozy&branch=main&name=missrozybot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/Rtjyz3lEZwE)
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Guardianff/MissRozy&branch=main&name=missrozybot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 ### Support Group:
-<a href="https://telegram.me/LazyDeveloperSupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/am_films"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/LazyDeveloperr"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/Guardianff"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/LazyDeveloperr"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/sreehari_3301"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
-
-### Demo Bot:
-<a href="https://telegram.me/MissRozy_BOT"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 	
 ##🌟Credits
-- 🔥Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding `LAZY_MODE` (an advance feature.)
-- ⚡️Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for `FIXING ERRORS` and adding extra veriables.
-- ❤️Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for your contribution & also thank you for helping us in our journey
+- 🔥Thank you [GUARDIANff](https://github.com/Guardianff) for adding `LAZY_MODE` (an advance feature.)
+- ⚡️Thank you [GUARDIANff](https://github.com/Guardianff) for `FIXING ERRORS` and adding extra veriables.
 
 
 * **Language:** [Python3](https://www.python.org)
